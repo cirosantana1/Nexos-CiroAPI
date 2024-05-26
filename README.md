@@ -6,3 +6,5 @@ Puntos a tener en cuenta para correr el proyecto.
 
    *Al intentar consumir el servicio PUT Booking - UpdateBooking responde 403 Forbidden
    *Al intentar consumir el servicio DELETE Booking - DeleteBooking responde 403 Forbidden
+
+2. Para este proyecto se utilizo Lombok
